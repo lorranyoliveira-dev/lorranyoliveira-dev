@@ -1,6 +1,6 @@
   <div align="center">
-    <h1>Hi, I'm Lorrany Oliveira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="30px"></h1>
-    <p>I'm a front-end developer and database student. Passionate about learning things that help me solve problems intelligently.</p>
+    <h1>Hi, I'm Lorrany Oliveira!</h1>
+    <p>I'm a database student. Passionate about learning things that help me solve problems intelligently.</p>
   </div>
 
   <div align="center">
@@ -10,11 +10,21 @@
   </div>
 
   <div style="display: inline_block" align="center"><br>
+    <h1>Language and Tools</h1>
     <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jon-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="Jon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Jon-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" alt="Jon-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+    <img align="center" alt="Jon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Jon-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   
+    <img align="center" alt="Jon-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
   </div>
  
+  ##
+  
    <div align="center">
     <h3>Contact me by</h3>
     <a href="https://www.linkedin.com/in/lo-rrany-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
